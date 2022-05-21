@@ -1,4 +1,5 @@
 # Logistics_Prediction
 
 ### Dacon Practice
-Logistics Prediction
+(https://www.dacon.io/competitions/official/235867/overview/description)
+Public 275th
